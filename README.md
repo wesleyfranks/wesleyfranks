@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on SkillMapMentor
 - 🌱 I’m currently learning Full Stack Development with RoadMap.sh
+[![roadmap.sh](https://roadmap.sh/card/tall/6770276770129741a8c7e570?variant=dark)](https://roadmap.sh)
 - 🤔 I’m looking for help with an opensource project 
 - 💬 Ask me about my dog Jarvis 🐶
 - 🪭 Fan of Marvel, DC, comics, and DBZ. 
