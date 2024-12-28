@@ -1,8 +1,4 @@
-## Hi there 👋
-
-**wesleyfranks/wesleyfranks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋 Wesley here...
 
 - 🔭 I’m currently working on SkillMapMentor
 - 🌱 I’m currently learning Full Stack Development with RoadMap.sh
